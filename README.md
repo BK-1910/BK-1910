@@ -3,7 +3,8 @@
 Get to know me better by accessing my social medias 📲
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ken-wuldarczki-suzuki-257151122)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&tobrunowuldarczki@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&tobrunokw_suzuki@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eusouken/)
 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BK-1910&show_icons=true&theme=dracula&count_private=true)
